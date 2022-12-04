@@ -1,0 +1,11 @@
+Task Involved:
+Extracting product data such as it's title, price and keeping tab on the price details by automating the data extraction process.
+
+Process:
+1- Imported required libraries such as beautifulsoup, requests, time and datetime.
+2- Then wrote the code to establish connection with a website and extract the data.
+3- Performed data cleaning and created a CSV file to store the extracted data.
+4- Combined all of the code into a single function.
+5- Added while loop and timer to automate the process.
+
+Tools used: Python, Jupyter Notebook, BeatifulSoup library
